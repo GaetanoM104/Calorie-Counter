@@ -1,0 +1,252 @@
+[
+  {
+    "Description": "Apple, fresh, raw",
+    "PortionSize": "1 medium (182g)",
+    "Calories": 95
+  },
+  {
+    "Description": "Banana, fresh, raw",
+    "PortionSize": "1 medium (118g)",
+    "Calories": 105
+  },
+  {
+    "Description": "Chicken breast, grilled",
+    "PortionSize": "100g",
+    "Calories": 165
+  },
+  {
+    "Description": "White rice, cooked",
+    "PortionSize": "1 cup (158g)",
+    "Calories": 205
+  },
+  {
+    "Description": "Brown rice, cooked",
+    "PortionSize": "1 cup (195g)",
+    "Calories": 218
+  },
+  {
+    "Description": "Spaghetti pasta, cooked",
+    "PortionSize": "1 cup (140g)",
+    "Calories": 220
+  },
+  {
+    "Description": "Whole wheat bread",
+    "PortionSize": "1 slice (40g)",
+    "Calories": 92
+  },
+  {
+    "Description": "White bread",
+    "PortionSize": "1 slice (30g)",
+    "Calories": 79
+  },
+  {
+    "Description": "Whole milk",
+    "PortionSize": "1 cup (244ml)",
+    "Calories": 149
+  },
+  {
+    "Description": "Skim milk (fat-free)",
+    "PortionSize": "1 cup (245ml)",
+    "Calories": 83
+  },
+  {
+    "Description": "Greek yogurt, plain, low-fat",
+    "PortionSize": "170g",
+    "Calories": 124
+  },
+  {
+    "Description": "Cheddar cheese",
+    "PortionSize": "1 slice (28g)",
+    "Calories": 113
+  },
+  {
+    "Description": "Mozzarella cheese, fresh",
+    "PortionSize": "100g",
+    "Calories": 280
+  },
+  {
+    "Description": "Egg, large, boiled",
+    "PortionSize": "1 large egg (50g)",
+    "Calories": 78
+  },
+  {
+    "Description": "Egg, large, fried",
+    "PortionSize": "1 large egg (46g)",
+    "Calories": 90
+  },
+  {
+    "Description": "Olive oil, extra virgin",
+    "PortionSize": "1 tablespoon (15ml)",
+    "Calories": 119
+  },
+  {
+    "Description": "Butter, salted",
+    "PortionSize": "1 tablespoon (14g)",
+    "Calories": 102
+  },
+  {
+    "Description": "Salmon fillet, baked",
+    "PortionSize": "100g",
+    "Calories": 206
+  },
+  {
+    "Description": "Tuna, canned in water",
+    "PortionSize": "1 can (165g)",
+    "Calories": 142
+  },
+  {
+    "Description": "Ground beef (80% lean), cooked",
+    "PortionSize": "100g",
+    "Calories": 254
+  },
+  {
+    "Description": "Beef steak, sirloin, grilled",
+    "PortionSize": "100g",
+    "Calories": 206
+  },
+  {
+    "Description": "Pork chop, cooked",
+    "PortionSize": "1 chop (150g)",
+    "Calories": 340
+  },
+  {
+    "Description": "Broccoli, steamed",
+    "PortionSize": "1 cup (150g)",
+    "Calories": 55
+  },
+  {
+    "Description": "Spinach, raw",
+    "PortionSize": "1 cup (30g)",
+    "Calories": 7
+  },
+  {
+    "Description": "Carrot, fresh, raw",
+    "PortionSize": "1 medium (61g)",
+    "Calories": 25
+  },
+  {
+    "Description": "Tomato, fresh, raw",
+    "PortionSize": "1 medium (123g)",
+    "Calories": 22
+  },
+  {
+    "Description": "Potato, boiled, without skin",
+    "PortionSize": "1 medium (150g)",
+    "Calories": 130
+  },
+  {
+    "Description": "French fries, baked",
+    "PortionSize": "1 medium portion (117g)",
+    "Calories": 274
+  },
+  {
+    "Description": "Sweet potato, baked",
+    "PortionSize": "1 medium (114g)",
+    "Calories": 103
+  },
+  {
+    "Description": "Avocado, raw",
+    "PortionSize": "1/2 medium (100g)",
+    "Calories": 160
+  },
+  {
+    "Description": "Almonds, raw",
+    "PortionSize": "1 handful (28g)",
+    "Calories": 164
+  },
+  {
+    "Description": "Walnuts, raw",
+    "PortionSize": "1 handful (28g)",
+    "Calories": 185
+  },
+  {
+    "Description": "Peanut butter",
+    "PortionSize": "2 tablespoons (32g)",
+    "Calories": 188
+  },
+  {
+    "Description": "Oatmeal, cooked in water",
+    "PortionSize": "1 cup (234g)",
+    "Calories": 166
+  },
+  {
+    "Description": "Orange, fresh, raw",
+    "PortionSize": "1 medium (131g)",
+    "Calories": 62
+  },
+  {
+    "Description": "Strawberries, fresh, raw",
+    "PortionSize": "1 cup (152g)",
+    "Calories": 49
+  },
+  {
+    "Description": "Blueberries, fresh, raw",
+    "PortionSize": "1 cup (148g)",
+    "Calories": 84
+  },
+  {
+    "Description": "Grapes, red or green",
+    "PortionSize": "1 cup (151g)",
+    "Calories": 104
+  },
+  {
+    "Description": "Dark chocolate (70-85% cocoa)",
+    "PortionSize": "1 square (28g)",
+    "Calories": 170
+  },
+  {
+    "Description": "Honey",
+    "PortionSize": "1 tablespoon (21g)",
+    "Calories": 64
+  },
+  {
+    "Description": "Pizza, Margherita",
+    "PortionSize": "1 slice (107g)",
+    "Calories": 270
+  },
+  {
+    "Description": "Hamburger, fast food classic",
+    "PortionSize": "1 burger (110g)",
+    "Calories": 254
+  },
+  {
+    "Description": "Turkey breast, roasted",
+    "PortionSize": "100g",
+    "Calories": 135
+  },
+  {
+    "Description": "Shrimp, cooked",
+    "PortionSize": "100g",
+    "Calories": 99
+  },
+  {
+    "Description": "Green peas, cooked",
+    "PortionSize": "1 cup (160g)",
+    "Calories": 134
+  },
+  {
+    "Description": "Chickpeas, canned, drained",
+    "PortionSize": "1 cup (164g)",
+    "Calories": 269
+  },
+  {
+    "Description": "Lentils, cooked",
+    "PortionSize": "1 cup (198g)",
+    "Calories": 230
+  },
+  {
+    "Description": "Tofu, firm",
+    "PortionSize": "100g",
+    "Calories": 83
+  },
+  {
+    "Description": "Espresso coffee, un sweetened",
+    "PortionSize": "1 cup (30ml)",
+    "Calories": 2
+  },
+  {
+    "Description": "Coca-Cola (Original)",
+    "PortionSize": "1 can (330ml)",
+    "Calories": 139
+  }
+]
