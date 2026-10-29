@@ -248,5 +248,380 @@
     "Description": "Coca-Cola (Original)",
     "PortionSize": "1 can (330ml)",
     "Calories": 139
+  } ,
+  {
+    "Description": "Pear, fresh, raw",
+    "PortionSize": "1 medium (178g)",
+    "Calories": 101
+  },
+  {
+    "Description": "Peach, fresh, raw",
+    "PortionSize": "1 medium (150g)",
+    "Calories": 59
+  },
+  {
+    "Description": "Pineapple, fresh, raw",
+    "PortionSize": "1 cup (165g)",
+    "Calories": 82
+  },
+  {
+    "Description": "Watermelon, raw",
+    "PortionSize": "1 wedge (286g)",
+    "Calories": 86
+  },
+  {
+    "Description": "Kiwi, fresh, raw",
+    "PortionSize": "1 medium (69g)",
+    "Calories": 42
+  },
+  {
+    "Description": "Mango, fresh, raw",
+    "PortionSize": "1 cup (165g)",
+    "Calories": 99
+  },
+  {
+    "Description": "Raspberries, fresh, raw",
+    "PortionSize": "1 cup (123g)",
+    "Calories": 64
+  },
+  {
+    "Description": "Lemon, fresh, raw",
+    "PortionSize": "1 medium (58g)",
+    "Calories": 17
+  },
+  {
+    "Description": "Cucumber, fresh, with peel",
+    "PortionSize": "1 medium (201g)",
+    "Calories": 30
+  },
+  {
+    "Description": "Zucchini, raw",
+    "PortionSize": "1 medium (196g)",
+    "Calories": 33
+  },
+  {
+    "Description": "Cauliflower, raw",
+    "PortionSize": "1 cup (107g)",
+    "Calories": 27
+  },
+  {
+    "Description": "Bell pepper, red, raw",
+    "PortionSize": "1 medium (119g)",
+    "Calories": 31
+  },
+  {
+    "Description": "Onion, raw",
+    "PortionSize": "1 medium (110g)",
+    "Calories": 44
+  },
+  {
+    "Description": "Garlic, raw",
+    "PortionSize": "3 cloves (9g)",
+    "Calories": 13
+  },
+  {
+    "Description": "Lettuce, iceberg, raw",
+    "PortionSize": "1 cup (72g)",
+    "Calories": 10
+  },
+  {
+    "Description": "Asparagus, cooked",
+    "PortionSize": "4 spears (60g)",
+    "Calories": 13
+  },
+  {
+    "Description": "Green beans, cooked",
+    "PortionSize": "1 cup (125g)",
+    "Calories": 44
+  },
+  {
+    "Description": "Mushrooms, white, raw",
+    "PortionSize": "1 cup (70g)",
+    "Calories": 15
+  },
+  {
+    "Description": "Chicken thigh, skinless, cooked",
+    "PortionSize": "100g",
+    "Calories": 209
+  },
+  {
+    "Description": "Bacon, cooked, crispy",
+    "PortionSize": "2 slices (16g)",
+    "Calories": 86
+  },
+  {
+    "Description": "Sausage, pork, cooked",
+    "PortionSize": "1 link (45g)",
+    "Calories": 150
+  },
+  {
+    "Description": "Lamb chop, cooked",
+    "PortionSize": "100g",
+    "Calories": 282
+  },
+  {
+    "Description": "Cod fillet, baked",
+    "PortionSize": "100g",
+    "Calories": 105
+  },
+  {
+    "Description": "Tilapia fillet, cooked",
+    "PortionSize": "100g",
+    "Calories": 128
+  },
+  {
+    "Description": "Canned tuna in olive oil, drained",
+    "PortionSize": "1 can (160g)",
+    "Calories": 317
+  },
+  {
+    "Description": "Squid / Calamari, fried",
+    "PortionSize": "100g",
+    "Calories": 175
+  },
+  {
+    "Description": "Quinoa, cooked",
+    "PortionSize": "1 cup (185g)",
+    "Calories": 222
+  },
+  {
+    "Description": "Couscous, cooked",
+    "PortionSize": "1 cup (157g)",
+    "Calories": 176
+  },
+  {
+    "Description": "Popcorn, air-popped",
+    "PortionSize": "3 cups (24g)",
+    "Calories": 93
+  },
+  {
+    "Description": "Rolled oats, raw",
+    "PortionSize": "1/2 cup (40g)",
+    "Calories": 150
+  },
+  {
+    "Description": "Corn flakes cereal",
+    "PortionSize": "1 cup (30g)",
+    "Calories": 113
+  },
+  {
+    "Description": "Black beans, canned, drained",
+    "PortionSize": "1 cup (172g)",
+    "Calories": 218
+  },
+  {
+    "Description": "Edamame, steamed",
+    "PortionSize": "1 cup (155g)",
+    "Calories": 188
+  },
+  {
+    "Description": "Almond milk, unsweetened",
+    "PortionSize": "1 cup (240ml)",
+    "Calories": 30
+  },
+  {
+    "Description": "Soy milk, unsweetened",
+    "PortionSize": "1 cup (240ml)",
+    "Calories": 80
+  },
+  {
+    "Description": "Oat milk",
+    "PortionSize": "1 cup (240ml)",
+    "Calories": 120
+  },
+  {
+    "Description": "Parmesan cheese, grated",
+    "PortionSize": "1 tablespoon (5g)",
+    "Calories": 22
+  },
+  {
+    "Description": "Cottage cheese, low-fat",
+    "PortionSize": "1/2 cup (113g)",
+    "Calories": 81
+  },
+  {
+    "Description": "Feta cheese",
+    "PortionSize": "1/4 cup crumbled (38g)",
+    "Calories": 99
+  },
+  {
+    "Description": "Cream cheese",
+    "PortionSize": "1 tablespoon (14g)",
+    "Calories": 50
+  },
+  {
+    "Description": "Cashews, raw",
+    "PortionSize": "1 handful (28g)",
+    "Calories": 157
+  },
+  {
+    "Description": "Pistachios, roasted, salted",
+    "PortionSize": "1 handful (28g)",
+    "Calories": 159
+  },
+  {
+    "Description": "Chia seeds",
+    "PortionSize": "1 tablespoon (12g)",
+    "Calories": 58
+  },
+  {
+    "Description": "Sunflower seeds, dried",
+    "PortionSize": "1 handful (28g)",
+    "Calories": 165
+  },
+  {
+    "Description": "Mayonnaise",
+    "PortionSize": "1 tablespoon (14g)",
+    "Calories": 94
+  },
+  {
+    "Description": "Ketchup",
+    "PortionSize": "1 tablespoon (17g)",
+    "Calories": 19
+  },
+  {
+    "Description": "Mustard",
+    "PortionSize": "1 teaspoon (5g)",
+    "Calories": 3
+  },
+  {
+    "Description": "Soy sauce",
+    "PortionSize": "1 tablespoon (16ml)",
+    "Calories": 9
+  },
+  {
+    "Description": "Hummus",
+    "PortionSize": "2 tablespoons (30g)",
+    "Calories": 70
+  },
+  {
+    "Description": "Guacamole",
+    "PortionSize": "2 tablespoons (30g)",
+    "Calories": 45
+  },
+  {
+    "Description": "Croissant, butter",
+    "PortionSize": "1 medium (57g)",
+    "Calories": 231
+  },
+  {
+    "Description": "Bagel, plain",
+    "PortionSize": "1 medium (105g)",
+    "Calories": 289
+  },
+  {
+    "Description": "Tortilla, flour",
+    "PortionSize": "1 medium (45g)",
+    "Calories": 138
+  },
+  {
+    "Description": "Chocolate chip cookie",
+    "PortionSize": "1 medium (16g)",
+    "Calories": 78
+  },
+  {
+    "Description": "Blueberry muffin",
+    "PortionSize": "1 medium (113g)",
+    "Calories": 426
+  },
+  {
+    "Description": "Pancakes, plain",
+    "PortionSize": "1 pancake (77g)",
+    "Calories": 175
+  },
+  {
+    "Description": "Milk chocolate",
+    "PortionSize": "1 bar (44g)",
+    "Calories": 235
+  },
+  {
+    "Description": "Vanilla ice cream",
+    "PortionSize": "1/2 cup (66g)",
+    "Calories": 137
+  },
+  {
+    "Description": "Potato chips, salted",
+    "PortionSize": "1 small bag (28g)",
+    "Calories": 152
+  },
+  {
+    "Description": "Cheeseburger, fast food",
+    "PortionSize": "1 burger (120g)",
+    "Calories": 303
+  },
+  {
+    "Description": "Hot dog in bun",
+    "PortionSize": "1 item (100g)",
+    "Calories": 290
+  },
+  {
+    "Description": "Chicken nuggets",
+    "PortionSize": "6 pieces (96g)",
+    "Calories": 280
+  },
+  {
+    "Description": "Sushi, California roll",
+    "PortionSize": "6 pieces (180g)",
+    "Calories": 255
+  },
+  {
+    "Description": "Lasagna, meat",
+    "PortionSize": "1 piece (200g)",
+    "Calories": 336
+  },
+  {
+    "Description": "Cappuccino, whole milk",
+    "PortionSize": "1 cup (240ml)",
+    "Calories": 120
+  },
+  {
+    "Description": "Orange juice, 100% pure",
+    "PortionSize": "1 cup (248ml)",
+    "Calories": 112
+  },
+  {
+    "Description": "Apple juice",
+    "PortionSize": "1 cup (248ml)",
+    "Calories": 114
+  },
+  {
+    "Description": "Green tea, unsweetened",
+    "PortionSize": "1 cup (240ml)",
+    "Calories": 2
+  },
+  {
+    "Description": "Red wine",
+    "PortionSize": "1 glass (150ml)",
+    "Calories": 125
+  },
+  {
+    "Description": "Beer, regular",
+    "PortionSize": "1 can (355ml)",
+    "Calories": 153
+  },
+  {
+    "Description": "Energy drink (Monster/Red Bull)",
+    "PortionSize": "1 can (250ml)",
+    "Calories": 110
+  },
+  {
+    "Description": "Protein powder, whey",
+    "PortionSize": "1 scoop (30g)",
+    "Calories": 120
+  },
+  {
+    "Description": "Maple syrup",
+    "PortionSize": "1 tablespoon (20g)",
+    "Calories": 52
+  },
+  {
+    "Description": "Jam / Fruit preserves",
+    "PortionSize": "1 tablespoon (20g)",
+    "Calories": 56
+  },
+  {
+    "Description": "Nutella / Hazelnut spread",
+    "PortionSize": "1 tablespoon (15g)",
+    "Calories": 80
   }
 ]
